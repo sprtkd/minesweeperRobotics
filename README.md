@@ -13,3 +13,4 @@ our task was to find in which of those green blobs there where ir lights.
 the main code was written on matlab.
 
 commands were sent over bluetooth.
+
