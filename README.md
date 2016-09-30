@@ -14,3 +14,5 @@ the main code was written on matlab.
 
 commands were sent over bluetooth.
 
+See this video...
+https://www.youtube.com/watch?v=6IhMgqlB2io
